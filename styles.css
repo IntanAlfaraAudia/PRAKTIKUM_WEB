@@ -312,7 +312,7 @@ body.dark-mode {
 }
 
 body.dark-mode #home {
-    background: linear-gradient(rgba(26, 37, 47, 0.8), rgba(26, 37, 47, 0.8)), url('/assets/home.webp') center/cover no-repeat;
+    background: linear-gradient(rgba(26, 37, 47, 0.8), rgba(26, 37, 47, 0.8)), url('assets/home.webp') center/cover no-repeat;
 }
 
 body.dark-mode section h2 {
